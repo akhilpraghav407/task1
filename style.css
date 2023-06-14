@@ -1,0 +1,44 @@
+body{
+    background: rgb(209, 209, 243);
+}
+.content{
+    margin-left: 688px;
+    margin-top: 132px;
+    height: 375px;
+    width: 258px;
+    background: white;
+}
+img{
+    border-radius: 55%;
+    width: 95px;
+    height: 78px;
+    margin-top: 40px;
+}
+
+.icon{
+    margin-left: 78px;
+}
+h2{
+    color: brown;
+}
+h3{
+    margin-top: -20px;
+}
+.align{
+    text-align: center;
+}
+footer{
+    background: white;
+}
+a{
+    text-align: center;
+    color: brown;
+}
+.media{
+    
+        margin-left: 26px;
+        margin-top: 39px;
+}
+a{
+    margin-left: 30px;
+}
